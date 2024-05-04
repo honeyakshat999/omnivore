@@ -6,7 +6,7 @@
     "e2e-test": "cypress run"
   },
   "dependencies": {
-    "@testing-library/cypress": "^8.0.2",
+    "@testing-library/cypress": "^10.0.1",
     "cypress": "^12.7.0"
   },
   "devDependencies": {},

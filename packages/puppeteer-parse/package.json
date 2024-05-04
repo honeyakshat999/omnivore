@@ -12,7 +12,7 @@
     "@omnivore/readability": "1.0.0",
     "axios": "^1.4.0",
     "crypto": "^1.0.1",
-    "dompurify": "^2.4.1",
+    "dompurify": "^3.1.2",
     "linkedom": "^0.14.9",
     "puppeteer-core": "^20.9.0",
     "puppeteer-extra": "^3.3.4",

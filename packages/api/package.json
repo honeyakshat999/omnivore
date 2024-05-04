@@ -78,7 +78,7 @@
     "image-size": "^1.0.2",
     "intercom-client": "^3.1.4",
     "ioredis": "^5.3.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwks-rsa": "^2.0.3",
     "langchain": "^0.1.21",
     "linkedom": "^0.14.9",
